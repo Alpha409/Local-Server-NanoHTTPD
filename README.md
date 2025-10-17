@@ -1,7 +1,6 @@
 🌐 Android Local Server (NanoHTTPD)
 
-A simple Android app that starts a local web server using NanoHTTPD
- and hosts a dummy website directly on your device — no internet required.
+A simple Android app that starts a local web server using NanoHTTPD and hosts a dummy website directly on your device — no internet required.
 
 🚀 Features
 
